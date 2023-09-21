@@ -1,0 +1,16 @@
+.personal-data {
+    background-image: url(https://th.bing.com/th/id/OIP.Tnz6wN2L_5yxSX0w8nDgBQHaLZ?w=138&h=213&c=7&r=0&o=5&pid=1.7://www.bing.com/images/search?view=detailV2&ccid=Tnz6wN2L&id=8FF4A0822CD81960E34CE289A86439A1264ED09C&thid=OIP.Tnz6wN2L_5yxSX0w8nDgBQHaLZ&mediaurl=https%3a%2f%2fcdn.wallpapersafari.com%2f63%2f50%2fpnRPcx.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.4e7cfac0dd8bff9cb1497d30f270e005%3frik%3dnNBOJqE5ZKiJ4g%26pid%3dImgRaw%26r%3d0&exph=1920&expw=1248&q=pink+background+aesthetic&simid=607986607412947440&FORM=IRPRST&ck=9B09DCDBED4607684FE2F1EE0548CF33&selectedIndex=1);
+    background-size: repeat-y;
+}
+
+.personal-data h1 {
+    font-size: 1.5rem;
+    color: palevioletred;
+    /*border-width: 2px;
+    border-style: solid;
+    border-color: palevioletred;*/
+
+    border: 1px solid palevioletred;
+
+    /*background-color: rgb(240, 225, 231);*/
+}
